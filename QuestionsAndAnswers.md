@@ -22,7 +22,7 @@ An alternative to “paying for people”, as this proposal puts forward, would 
 3. Any work affecting consensus or ledger rules requires a hard fork and must therefore be coordinated with SPOs, providers of downstream tools etc.   
 4. In order to ensure sufficient work to employ people, suppliers might be tempted to propose more work than they have the capacity for, in case some proposals are unsuccessful.
 
-#### How will the TSC ensure nobody is getting paid twice?
+### How will the TSC ensure nobody is getting paid twice?
 
 The TSC will propose to issue one or more maintenance/retainership contracts, whose purpose is to ensure the retention of those experts currently maintaining the core node infrastructure. Such contracts will name specific individuals and their roles, and require that suppliers inform us if said individuals leave or are replaced by others.
 
