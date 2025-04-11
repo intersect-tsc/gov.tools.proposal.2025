@@ -36,9 +36,9 @@ When evaluating value for money, the TSC will compare costs including the value 
 
 ### What is the TSC’s approach to reconciliation, changes and improvements to this proposal?
 
-#### While the TSC feels strongly that the principles of probity, order, honesty, security, sustainability, longevity and a proper respect for the governance process are essential to ensure sustainable core infrastructure development and maintenance, this proposal is presented to the community as a vehicle for constructive discussion.
+While the TSC feels strongly that the principles of probity, order, honesty, security, sustainability, longevity and a proper respect for the governance process are essential to ensure sustainable core infrastructure development and maintenance, this proposal is presented to the community as a vehicle for constructive discussion.
 
-#### The TSC recognizes the need for feedback and the continued inclusion of thoughts, suggestions and sentiment towards core development from all parts of the ecosystem. The TSC openly admits that it does not have all the answers. However this initial proposal serves as a reference point for an open, ongoing conversation. The TSC welcomes feedback through the reconciliation process and wider ecosystem collaboration, and is open to suggestions and changes to any part of the proposal as currently suggested. 
+The TSC recognizes the need for feedback and the continued inclusion of thoughts, suggestions and sentiment towards core development from all parts of the ecosystem. The TSC openly admits that it does not have all the answers. However this initial proposal serves as a reference point for an open, ongoing conversation. The TSC welcomes feedback through the reconciliation process and wider ecosystem collaboration, and is open to suggestions and changes to any part of the proposal as currently suggested. 
 
 ### What is the TSC’s position on Competing/Overlapping Proposals
 
