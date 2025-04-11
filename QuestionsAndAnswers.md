@@ -49,3 +49,16 @@ Following proper technical evaluation, the TSC is open to overseeing other core 
 The TSC views proper management of risk as being essential to the delivery of all funded work.  It has identified a number of systemic risks and will update the proposal at a future date with a full risk analysis, including specific mitigations.
 Each funded work item is expected to address technical risks in a sensible and consistent way.
 
+### How does this proposal differ from the budget that was submitted by the TSC to Intersect
+
+The main difference is that this proposal is restricted to 12 months starting in June 2025.  The actual proposal is, of course, also much more detailed.
+
+### What is the TSC position on Value for Money
+
+The TSC will use its knowledge and experience to obtain good value for money for any work that it oversees.
+The TSC's position is that the lowest bid only reflects the best value for money if the best developer team is being employed.
+
+
+
+
+
