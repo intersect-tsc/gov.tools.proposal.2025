@@ -43,3 +43,9 @@ The TSC recognizes the need for feedback and the continued inclusion of thoughts
 ### What is the TSC’s position on Competing/Overlapping Proposals
 
 Following proper technical evaluation, the TSC is open to overseeing other core infrastructure work that the community wishes to progress under the same conditions that it is proposing.  Such work must be technically feasible, compatible with other core infrastructure work, have a proper plan for integration and rollout, meet all necessary security and other audit requirements, be aligned with the agreed community roadmap, and not be exploitative.  Proposed budgets may need to be adjusted to account for overlaps.
+
+### What is the TSC’s position on Risk Management
+
+The TSC views proper management of risk as being essential to the delivery of all funded work.  It has identified a number of systemic risks and will update the proposal at a future date with a full risk analysis, including specific mitigations.
+Each funded work item is expected to address technical risks in a sensible and consistent way.
+
