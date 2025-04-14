@@ -1,5 +1,17 @@
 # TSC Budget Proposal: Questions & Explanations
 
+  - [TSC Budget Proposal](#-questions-&-explanations)
+    - [Questions](#questions)
+      - [Why is this budget not broken down into line items?](#why-is-this-budget-not-broken-down-into-line-items?)
+      - [Why not perform tendering directly on-chain?](#why-not-perform-tendering-directly-on-chain?)
+      - [How will the TSC ensure nobody is getting paid twice?](#how-will-the-tsc-ensure-nobody-is-getting-paid-twice?)
+      - [How does this proposal support competitive tender?](#how-does-this-proposal-support-competitive-tender?)
+      - [What is the TSC’s approach to reconciliation, changes and improvements to this proposal?](#what-is-the-tsc’s-approach-to-reconciliation,-changes-and-improvements-to-this-proposal?)
+      - [What is the TSC’s position on Competing/Overlapping Proposals](#what-is-the-tsc’s-position-on-competing/overlapping-proposals)
+      - [What is the TSC’s position on Risk Management](#what-is-the-tsc’s-position-on-risk-management)
+      - [How does this proposal differ from the budget that was submitted by the TSC to Intersect](#how-does-this-proposal-differ-from-the-budget-that-was-submitted-by-the-tsc-to-intersect)
+      - [What is the TSC position on Value for Money](#what-is-the-tsc-position-on-value-for-money)
+        
 ## Questions
 
 ### Why is this budget not broken down into line items?
