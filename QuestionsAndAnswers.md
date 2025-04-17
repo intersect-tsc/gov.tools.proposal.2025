@@ -119,7 +119,9 @@ The question is not generally one of what work will be done, nor even who will d
 
 ### Is it possible to list all budgets (excluding IOG) that have overlapping scopes with the TSC Budget? 
 
-See the comparison (link coming soon). It is possible to absorb these into the TSC budget.
+See the [Overlap with other Core Proposals](https://github.com/intersect-tsc/gov.tools.proposal.2025/blob/main/OverlapwithotherCoreProposals.md) Report. 
+
+It is possible to absorb these into the TSC budget.
 
 ### Where did $299,000 applied-to-every-engineer figure come from exactly?
 
